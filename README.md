@@ -1,0 +1,2 @@
+# ciudad-abandonada
+esquiba obstaculos
